@@ -1,0 +1,30 @@
+.main-block {
+    padding-bottom: 110px;
+    text-align: center;
+}
+
+.main-block-bg {
+    background: #709dca;
+    padding-top: 100px;
+    color: white;
+}
+
+.main-block h1 {
+    font-size: 35px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin: 0 15% 0;
+}
+
+.main-block p {
+    font-size: 16px;
+    font-weight: 300;
+    margin: 0 15% 70px;
+}
+
+.main-block img {
+    margin-bottom: -60px;
+    max-width: 648px;
+    width: 90%;
+    height: auto;
+}

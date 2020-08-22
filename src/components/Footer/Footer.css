@@ -1,0 +1,52 @@
+footer {
+    background: #709dca;
+
+}
+
+.footer {
+    display: flex;
+    color: white;
+    padding: 20px 0;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.link {
+    display: inline-block;
+    border: none;
+    width: 30px;
+    height: 25px;
+    margin: 0 15px;
+}
+
+.link-sc {
+    background-image: url(../../images/scype.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.link-tw {
+    background-image: url(../../images/twit.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.link-gg {
+    background-image: url(../../images/google.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.copyright {
+    font-weight: 300;
+}
+
+.phone {
+    font-weight: 300;
+    margin: 0;
+    font-size: 14px;
+}
+
+.phone span {
+    font-size: 22px;
+}

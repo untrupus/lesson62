@@ -1,0 +1,75 @@
+h4 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    letter-spacing: -0.025em;
+    color: #394b50;
+}
+
+.title-2 {
+    font-size: 18px;
+    text-align: center;
+    margin: 0;
+    color: #394b50;
+    padding-bottom: 95px;
+}
+
+.steps {
+    text-align: center;
+}
+
+.step {
+    width: 25%;
+    display: table-cell;
+    vertical-align: top;
+    background-position: top;
+    padding: 0 42px 68px;
+}
+
+.st {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 120px;
+    color: #394b50;
+}
+
+.step-1 {
+    background-image: url(../../images/step-1.png);
+    background-repeat: no-repeat;
+}
+
+.step-2 {
+    background-image: url(../../images/step-2.png);
+    background-repeat: no-repeat;
+}
+
+.step-3 {
+    background-image: url(../../images/step-3.png);
+    background-repeat: no-repeat;
+}
+
+.step-4 {
+    background-image: url(../../images/step-4.png);
+    background-repeat: no-repeat;
+}
+
+.btn {
+    background: #ffbb42;
+    display: inline-block;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 132px;
+    padding: 15px 28px;
+    border: none;
+    border-radius: 1px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.section-3 {
+    padding-top: 55px;
+}

@@ -4,6 +4,10 @@
     align-items: center;
 }
 
+.underline {
+    border-bottom: 3px solid #709dca;
+}
+
 .logo {
     padding: 22px 0;
 }

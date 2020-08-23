@@ -24,7 +24,7 @@ const About = () => {
                         ore
                         recently with desktop publishing software like Aldus PageMaker including versions of Lorem
                         Ipsum</p>
-                    <a href="#" className="read-more">Read more</a>
+                    <a href={"https://github.com/untrupus/lesson62"} className="read-more">Read more</a>
                 </div>
 
             </div>

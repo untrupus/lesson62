@@ -12,9 +12,9 @@ const Footer = () => {
                 <p className="phone"> Телефон: <span>+987 9976 999</span></p>
 
                 <div className="links">
-                    <a href="#" className="link link-sc"></a>
-                    <a href="#" className="link link-tw"></a>
-                    <a href="#" className="link link-gg"></a>
+                    <a href={"https://github.com/untrupus/lesson62"} className="link link-sc">{}</a>
+                    <a href={"https://github.com/untrupus/lesson62"} className="link link-tw">{}</a>
+                    <a href={"https://github.com/untrupus/lesson62"} className="link link-gg">{}</a>
                 </div>
 
             </div>

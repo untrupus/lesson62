@@ -14,7 +14,7 @@ const Services = () => {
                         <p className="serv">Lorem Ipsum is simply dummy text of the printing and typesetting ind
                             ustry. Lorem Ipsum has been the industry's standard dummy text ever
                             since the 1500s, when an unknown printer.</p>
-                        <a href="#" className="read">Read More</a>
+                        <a href={"https://github.com/untrupus/lesson62"} className="read">Read More</a>
                     </div>
 
                     <div className="service design ">
@@ -22,7 +22,7 @@ const Services = () => {
                         <p className="serv">Many desktop publishing packages and web page editors now use Lorem Ipsum as
                             their
                             default model text, and a search for 'lorem ipsum' </p>
-                        <a href="#" className="read">Read More</a>
+                        <a href={"https://github.com/untrupus/lesson62"} className="read">Read More</a>
                     </div>
 
                     <div className="service form ">
@@ -30,7 +30,7 @@ const Services = () => {
                         <p className="serv">Many desktop publishing packages and web page editors now use Lorem Ipsum as
                             their
                             default model text, and a search for infancy</p>
-                        <a href="#" className="read">Read More</a>
+                        <a href={"https://github.com/untrupus/lesson62"} className="read">Read More</a>
                     </div>
 
                     <div className="service retina ">
@@ -39,7 +39,7 @@ const Services = () => {
                             majority have
                             suffered alteration in some form, by injected humour
                             or randomised words which don't look even slightly believable.</p>
-                        <a href="#" className="read">Read More</a>
+                        <a href={"https://github.com/untrupus/lesson62"} className="read">Read More</a>
                     </div>
 
                     <div className="service code ">
@@ -47,7 +47,7 @@ const Services = () => {
                         <p className="serv">Finibus Bonorum et Malorum" by Cicero are also reproduced in their
                             exact original form, accompanied by English versions from the 1914 translation by H.
                             Rackham</p>
-                        <a href="#" className="read">Read More</a>
+                        <a href={"https://github.com/untrupus/lesson62"} className="read">Read More</a>
                     </div>
 
                     <div className="service flat ">
@@ -56,7 +56,7 @@ const Services = () => {
                             Lorem Ipsum
                             has been the industry's standard dummy text ever since
                             the 1500s, when an unknown printer.</p>
-                        <a href="#" className="read">Read More</a>
+                        <a href={"https://github.com/untrupus/lesson62"} className="read">Read More</a>
                     </div>
 
                 </div>

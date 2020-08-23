@@ -4,7 +4,7 @@ import './NavBar.css';
 
 const NavBar = () => (
     <div className="header container">
-        <a href="#" className="logo">
+        <a href={"https://github.com/untrupus/lesson62"} className="logo">
             <img src={require("../../images/design-7.png")} alt="design"/>
         </a>
         <nav className="main-nav">
